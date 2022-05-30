@@ -10,7 +10,7 @@ COMO VISUALIZAR O PROJETO NA SUA MAQUINA?
 
 BAIXE OS ARQUIVOS E ABRA COM SEU EDITOR PREFERIDO.
 
-1 Passo - Abrir terminal e digitar os seguintes comandos:
+1 Passo - Abrir terminal e digite os seguintes comandos:
 
 npm install ou yarn install
 
