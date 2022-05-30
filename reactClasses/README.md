@@ -18,7 +18,7 @@ npm install ou yarn install
 npm start
 
 
-VISUALIZE O DEPLOY DESTE PROJETO NO LINK ABAIXO:
+VISUALIZE O DEPLOY DESTE PROJETO NO LINK A SEGUIR:
 https://dulcet-swan-1c2719.netlify.app
 
 
