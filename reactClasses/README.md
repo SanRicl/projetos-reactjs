@@ -7,7 +7,6 @@ https://jsonplaceholder.typicode.com/
 
 COMO VISUALIZAR O PROJETO NA SUA MAQUINA?
 
-
 BAIXE OS ARQUIVOS E ABRA COM SEU EDITOR PREFERIDO.
 
 1 Passo - Abrir terminal e digite os seguintes comandos:
@@ -17,6 +16,10 @@ npm install ou yarn install
 2 Passo - Com o terminal aberto ainda, digitar o seguinte comando:
 
 npm start
+
+
+VISUALIZE O DEPLOY DESTE PROJETO NO LINK ABAIXO:
+https://dulcet-swan-1c2719.netlify.app
 
 
 # Getting Started with Create React App
