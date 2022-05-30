@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+#root{
+    background: rgb(240, 238, 238);
+    height: 100%; 
+}
+
+button{
+    width: 90%;
+    height: 40px;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    border: none;
+    background: rgb(0, 0, 0);
+    margin: 10% 5%;
+    cursor: pointer;
+}
+
+.searchContainer{
+    text-align: center;
+}
+
