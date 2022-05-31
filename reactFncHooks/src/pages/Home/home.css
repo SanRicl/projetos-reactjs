@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+}
+#root{
+    background: rgb(240, 238, 238);
+    height: 100%; 
+}
+
+.searchContainer{
+    text-align: center;
+}
+
